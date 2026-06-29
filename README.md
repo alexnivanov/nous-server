@@ -91,4 +91,4 @@ websocat ws://localhost:8080/ws            # в другом
   диффа со снятием со старых уровней нет.
 - **Авторизация** — `nick` принимается на доверии (`hello`), без идентификации.
 
-Зависимости: [`gorilla/websocket`](https://github.com/gorilla/websocket). Go 1.22.
+Зависимости: [`gorilla/websocket`](https://github.com/gorilla/websocket). Go 1.26.
